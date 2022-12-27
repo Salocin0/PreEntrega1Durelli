@@ -39,6 +39,7 @@
     justify-content: space-between;
     align-items: center;
 }
+
 .header {
     background-color: #251749;
     color: #FFFBEB;
@@ -47,6 +48,7 @@
     align-items: center;
     justify-content: space-between;
 }
+
 .notifi{
     position: relative;
     right: 20px;
@@ -64,6 +66,7 @@
     text-decoration: none;
     width: 1em; 
 }
+
 * {
     margin: 0;
     padding: 0;
